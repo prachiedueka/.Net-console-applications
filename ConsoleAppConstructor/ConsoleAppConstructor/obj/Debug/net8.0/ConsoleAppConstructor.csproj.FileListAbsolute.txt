@@ -1,0 +1,14 @@
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\obj\Debug\net8.0\ConsoleAppConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\obj\Debug\net8.0\ConsoleAppConstructor.AssemblyInfoInputs.cache
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\obj\Debug\net8.0\ConsoleAppConstructor.AssemblyInfo.cs
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\obj\Debug\net8.0\ConsoleAppConstructor.csproj.CoreCompileInputs.cache
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\bin\Debug\net8.0\ConsoleAppConstructor.exe
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\bin\Debug\net8.0\ConsoleAppConstructor.deps.json
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\bin\Debug\net8.0\ConsoleAppConstructor.runtimeconfig.json
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\bin\Debug\net8.0\ConsoleAppConstructor.dll
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\bin\Debug\net8.0\ConsoleAppConstructor.pdb
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\obj\Debug\net8.0\ConsoleAppConstructor.dll
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\obj\Debug\net8.0\refint\ConsoleAppConstructor.dll
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\obj\Debug\net8.0\ConsoleAppConstructor.pdb
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\obj\Debug\net8.0\ConsoleAppConstructor.genruntimeconfig.cache
+C:\Shruti\ConsoleAppConstructor\ConsoleAppConstructor\obj\Debug\net8.0\ref\ConsoleAppConstructor.dll

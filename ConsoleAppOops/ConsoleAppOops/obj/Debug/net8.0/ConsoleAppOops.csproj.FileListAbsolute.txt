@@ -1,0 +1,14 @@
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\obj\Debug\net8.0\ConsoleAppOops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\obj\Debug\net8.0\ConsoleAppOops.AssemblyInfoInputs.cache
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\obj\Debug\net8.0\ConsoleAppOops.AssemblyInfo.cs
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\obj\Debug\net8.0\ConsoleAppOops.csproj.CoreCompileInputs.cache
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\bin\Debug\net8.0\ConsoleAppOops.exe
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\bin\Debug\net8.0\ConsoleAppOops.deps.json
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\bin\Debug\net8.0\ConsoleAppOops.runtimeconfig.json
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\bin\Debug\net8.0\ConsoleAppOops.dll
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\bin\Debug\net8.0\ConsoleAppOops.pdb
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\obj\Debug\net8.0\ConsoleAppOops.dll
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\obj\Debug\net8.0\refint\ConsoleAppOops.dll
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\obj\Debug\net8.0\ConsoleAppOops.pdb
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\obj\Debug\net8.0\ConsoleAppOops.genruntimeconfig.cache
+C:\Shruti\ConsoleAppOops\ConsoleAppOops\obj\Debug\net8.0\ref\ConsoleAppOops.dll

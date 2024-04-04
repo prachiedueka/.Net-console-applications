@@ -1,0 +1,14 @@
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\bin\Debug\net8.0\DataTypesOperatorsMethod.exe
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\bin\Debug\net8.0\DataTypesOperatorsMethod.deps.json
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\bin\Debug\net8.0\DataTypesOperatorsMethod.runtimeconfig.json
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\bin\Debug\net8.0\DataTypesOperatorsMethod.dll
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\bin\Debug\net8.0\DataTypesOperatorsMethod.pdb
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\obj\Debug\net8.0\DataTypesOperatorsMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\obj\Debug\net8.0\DataTypesOperatorsMethod.AssemblyInfoInputs.cache
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\obj\Debug\net8.0\DataTypesOperatorsMethod.AssemblyInfo.cs
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\obj\Debug\net8.0\DataTypesOperatorsMethod.csproj.CoreCompileInputs.cache
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\obj\Debug\net8.0\DataTypesOperatorsMethod.dll
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\obj\Debug\net8.0\refint\DataTypesOperatorsMethod.dll
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\obj\Debug\net8.0\DataTypesOperatorsMethod.pdb
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\obj\Debug\net8.0\DataTypesOperatorsMethod.genruntimeconfig.cache
+C:\Shruti\DataTypesOperatorsMethod\DataTypesOperatorsMethod\obj\Debug\net8.0\ref\DataTypesOperatorsMethod.dll
